@@ -1,4 +1,4 @@
-# tdd-sign-up-assignment
+# tdd-wall-assignment
 
 Describe The Wall application. Think about how you built the wall. How many features did you create for the wall? You should be able to describe a certain feature, let’s say login, and come up with multiple it statements (sub features like notification, redirect, validation, etc.) for these major features for the wall. Come up with test cases like how you would manually test an app:
 
